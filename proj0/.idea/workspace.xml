@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6738b4bf-4aaa-4e59-b7a5-76f1e399bf1d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/BasicInDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/BasicInDemo_input_file.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/In.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/InDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/StdDraw.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/StdDraw.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/StdDrawDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/StdDrawDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/StdOut.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/StdOut.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/StdRandom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/StdRandom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/advice.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/national_salt_production.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proj0/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proj0/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proj0/examples/BasicInDemo_input_file.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proj0/examples/advice.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proj0/examples/national_salt_production.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1qBy1oaomWha9KaqVSvircwhe2O" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.NBody">
+    <configuration name="NBody" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NBody" />
+      <module name="proj0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPlanetConstructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestPlanetConstructor" />
+      <module name="proj0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NBody" />
+        <item itemvalue="Application.TestPlanetConstructor" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6738b4bf-4aaa-4e59-b7a5-76f1e399bf1d" name="Default Changelist" comment="" />
+      <created>1616567065588</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616567065588</updated>
+      <workItem from="1616567066840" duration="52000" />
+      <workItem from="1616567982974" duration="1492000" />
+      <workItem from="1616569833586" duration="4332000" />
+      <workItem from="1616600048918" duration="2088000" />
+      <workItem from="1616663920937" duration="1386000" />
+      <workItem from="1616673679592" duration="1450000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="163" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1616598491076">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="499" y="163" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1616598491076" />
+    <state x="933" y="175" key="FileChooserDialogImpl" timestamp="1616597788362">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="933" y="175" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1616597788362" />
+    <state width="1493" height="173" key="GridCell.Tab.0.bottom" timestamp="1616674794644">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="173" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1616674794644" />
+    <state width="1493" height="173" key="GridCell.Tab.0.center" timestamp="1616674794643">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="173" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1616674794643" />
+    <state width="1493" height="173" key="GridCell.Tab.0.left" timestamp="1616674794643">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="173" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1616674794643" />
+    <state width="1493" height="173" key="GridCell.Tab.0.right" timestamp="1616674794643">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="173" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1616674794643" />
+  </component>
+</project>
