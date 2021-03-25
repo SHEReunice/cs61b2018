@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:skeleton" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6738b4bf-4aaa-4e59-b7a5-76f1e399bf1d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Planet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Planet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1/GuitarHeroLite.java.skeleton" beforeDir="false" afterPath="$PROJECT_DIR$/../hw1/GuitarHeroLite.java.skeleton" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1/synthesizer/ArrayRingBuffer.java.skeleton" beforeDir="false" afterPath="$PROJECT_DIR$/../hw1/synthesizer/ArrayRingBuffer.java.skeleton" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1/synthesizer/GuitarString.java.skeleton" beforeDir="false" afterPath="$PROJECT_DIR$/../hw1/synthesizer/GuitarString.java.skeleton" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1/synthesizer/TestArrayRingBuffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw1/synthesizer/TestArrayRingBuffer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1/synthesizer/TestGuitarString.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw1/synthesizer/TestGuitarString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw7/BitSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw7/BitSequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw7/FileUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw7/FileUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw7/Match.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw7/Match.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw7/ObjectReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw7/ObjectReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw7/ObjectWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw7/ObjectWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw7/ObjectWritingAndReadingDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw7/ObjectWritingAndReadingDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw7/TestBinaryTrie.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw7/TestBinaryTrie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw7/notEnglish.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../hw7/notEnglish.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw7/signalalarm.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../hw7/signalalarm.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw7/tas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../hw7/tas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw7/watermelonsugar.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../hw7/watermelonsugar.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab10/ArrayHeap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab10/ArrayHeap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab12/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab12/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab12/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab12/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab14/lab14lib/GeneratorDrawer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab14/lab14lib/GeneratorDrawer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab15/creatures/Plip.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab15/creatures/Plip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab15/creatures/TestPlip.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab15/creatures/TestPlip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab15/huglife/Action.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab15/huglife/Action.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab15/huglife/Creature.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab15/huglife/Creature.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab15/huglife/Direction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab15/huglife/Direction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab15/huglife/Empty.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab15/huglife/Empty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab15/huglife/Grid.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab15/huglife/Grid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab15/huglife/HugLife.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab15/huglife/HugLife.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab15/huglife/HugLifeAnimator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab15/huglife/HugLifeAnimator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab15/huglife/HugLifeUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab15/huglife/HugLifeUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab15/huglife/Impassible.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab15/huglife/Impassible.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab15/huglife/In.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab15/huglife/In.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab15/huglife/Occupant.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab15/huglife/Occupant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab15/huglife/Out.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab15/huglife/Out.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab15/huglife/Position.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab15/huglife/Position.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab15/huglife/SampleCreature.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab15/huglife/SampleCreature.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab15/huglife/StdDraw.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab15/huglife/StdDraw.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab15/huglife/TestHugLife.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab15/huglife/TestHugLife.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab15/huglife/sampleplip.world" beforeDir="false" afterPath="$PROJECT_DIR$/../lab15/huglife/sampleplip.world" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab15/huglife/samplesolo.world" beforeDir="false" afterPath="$PROJECT_DIR$/../lab15/huglife/samplesolo.world" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab15/huglife/strugggz.world" beforeDir="false" afterPath="$PROJECT_DIR$/../lab15/huglife/strugggz.world" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestPlanetConstructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestPlanetConstructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/InDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/InDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/StdDrawDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/StdDrawDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/advice.png" beforeDir="false" afterPath="$PROJECT_DIR$/examples/advice.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj1a/LinkedListDequeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../proj1a/LinkedListDequeTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1qBy1oaomWha9KaqVSvircwhe2O" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="E:/myGit/lectureCode-sp18/intro2" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="TestPlanetConstructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestPlanetConstructor" />
+      <module name="proj0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestPlanetConstructor" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6738b4bf-4aaa-4e59-b7a5-76f1e399bf1d" name="Default Changelist" comment="" />
+      <created>1616567065588</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616567065588</updated>
+      <workItem from="1616567066840" duration="52000" />
+      <workItem from="1616567982974" duration="1492000" />
+      <workItem from="1616569833586" duration="4332000" />
+      <workItem from="1616600048918" duration="2088000" />
+      <workItem from="1616663920937" duration="1386000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="163" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1616598491076">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="499" y="163" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1616598491076" />
+    <state x="933" y="175" key="FileChooserDialogImpl" timestamp="1616597788362">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="933" y="175" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1616597788362" />
+  </component>
+</project>
