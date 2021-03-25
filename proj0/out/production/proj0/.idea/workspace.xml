@@ -20,7 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6738b4bf-4aaa-4e59-b7a5-76f1e399bf1d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Planet.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/images/Planet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hw1/GuitarHeroLite.java.skeleton" beforeDir="false" afterPath="$PROJECT_DIR$/../hw1/GuitarHeroLite.java.skeleton" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hw1/synthesizer/ArrayRingBuffer.java.skeleton" beforeDir="false" afterPath="$PROJECT_DIR$/../hw1/synthesizer/ArrayRingBuffer.java.skeleton" afterDir="false" />
@@ -63,9 +62,6 @@
       <change beforePath="$PROJECT_DIR$/../lab15/huglife/sampleplip.world" beforeDir="false" afterPath="$PROJECT_DIR$/../lab15/huglife/sampleplip.world" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../lab15/huglife/samplesolo.world" beforeDir="false" afterPath="$PROJECT_DIR$/../lab15/huglife/samplesolo.world" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../lab15/huglife/strugggz.world" beforeDir="false" afterPath="$PROJECT_DIR$/../lab15/huglife/strugggz.world" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestPlanetConstructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestPlanetConstructor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/InDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/InDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/StdDrawDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/StdDrawDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/examples/advice.png" beforeDir="false" afterPath="$PROJECT_DIR$/examples/advice.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../proj1a/LinkedListDequeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../proj1a/LinkedListDequeTest.java" afterDir="false" />
     </list>
@@ -95,24 +91,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="E:/myGit/lectureCode-sp18/intro2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Application.NBody">
-    <configuration name="NBody" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NBody" />
-      <module name="proj0" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration name="TestPlanetConstructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestPlanetConstructor" />
       <module name="proj0" />
@@ -122,7 +106,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NBody" />
         <item itemvalue="Application.TestPlanetConstructor" />
       </list>
     </recent_temporary>
@@ -138,10 +121,7 @@
       <option name="presentableId" value="Default" />
       <updated>1616567065588</updated>
       <workItem from="1616567066840" duration="52000" />
-      <workItem from="1616567982974" duration="1492000" />
-      <workItem from="1616569833586" duration="4332000" />
-      <workItem from="1616600048918" duration="2088000" />
-      <workItem from="1616663920937" duration="1386000" />
+      <workItem from="1616567982974" duration="120000" />
     </task>
     <servers />
   </component>
@@ -158,16 +138,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="499" y="163" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1616598491076">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="499" y="163" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1616598491076" />
-    <state x="933" y="175" key="FileChooserDialogImpl" timestamp="1616597788362">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="933" y="175" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1616597788362" />
   </component>
 </project>
